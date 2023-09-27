@@ -1,10 +1,11 @@
 # 東武日光駅/日光駅周辺
-## 
+## 日光レストラン えんや
+ランチ、ハンバーグ・ステーキ
 アクセス：
-[GoogleMAP](https://maps.google.com/maps?q=)
+[GoogleMAP](https://maps.google.com/maps?q=日光レストラン+えんや)
 
 食べログ：
-
+https://tabelog.com/tochigi/A0903/A090301/9001164/dtlmenu/photo/
 
 ## 日光さかえや
 揚げ饅頭、食べ歩き
@@ -49,6 +50,15 @@ https://tabelog.com/tochigi/A0903/A090301/9017751/
 
 食べログ：
 https://tabelog.com/tochigi/A0903/A090301/9020716/
+
+## 湯沢屋
+饅頭、水ようかん、食べ歩き
+
+食べログ:
+https://tabelog.com/tochigi/A0903/A090301/9003165/
+
+アクセス：
+[GoogleMAP](https://maps.google.com/maps?q=日光+湯沢屋)
 
 ## 日光苺堂
 いちごスムージー
