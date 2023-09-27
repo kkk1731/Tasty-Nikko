@@ -68,11 +68,7 @@ https://tabelog.com/tochigi/A0903/A090301/9003165/
 
 食べログ：
 https://tabelog.com/tochigi/A0903/A090301/9021076/
-## 
-アクセス：
-[GoogleMAP](https://maps.google.com/maps?q=)
 
-食べログ：
 
 # 下今市周辺
 ## 洋食屋 金長
