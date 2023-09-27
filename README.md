@@ -4,7 +4,7 @@
 
 # 日光プリン亭
 アクセス
-https://maps.google.com/maps?q=日光プリン亭 日光本店
+https://maps.google.com/maps?q=日光プリン亭+日光本店
 
 食べログ
 https://tabelog.com/tochigi/A0903/A090301/9016883/
